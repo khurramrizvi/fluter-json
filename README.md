@@ -23,16 +23,9 @@ samples, guidance on mobile development, and a full API reference.
 
 <table>
   <tr>
-    <img src = "https://ibb.co/1m1zFMM" height=480 width=270>
+    <td> <img src = "https://i.ibb.co/MCrBFff/Screenshot-users-list-20190629-004032.png" height=480 width=270></td>
+    <td><img src = "https://i.ibb.co/6rJvJmB/Screenshot-users-list-20190629-004044.png" height=480 width=270></td>
+    <td><img src = "https://i.ibb.co/DwzvW73/Screenshot-users-list-20190629-004056.png" height=480 width=270></td>
   </tr>
-  
-   <tr>
-    <img src = "https://ibb.co/bQRHRPJ" height=480 width=270>
-  </tr>
-  
-   <tr>
-    <img src = "https://ibb.co/nQ6YmDh" height=480 width=270>
-  </tr>
-  
  </table>
   
